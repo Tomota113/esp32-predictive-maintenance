@@ -1,0 +1,15 @@
+bin/
+**/bin/
+.pio/
+**/.pio/
+.agents/
+**/.agents/
+.vscode/
+**/.vscode/
+.venv/
+**/__pycache__/
+*.pyc
+*.db*
+.DS_Store
+*.log
+.env*
